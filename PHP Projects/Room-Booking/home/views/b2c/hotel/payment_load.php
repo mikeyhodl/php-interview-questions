@@ -59,19 +59,9 @@
         
         //For Demo
 //        $url = 'https://test.payu.in/_payment.php';
-//        $key = 'C0Dr8m';
-//        $SALT = '3sf0jURk';
+//        $key = 'xxx';
+//        $SALT = 'xxx';
         
-         //For Live
-        $url = 'https://secure.payu.in/_payment';
-        $SALT = '9ub2mwSf';
-        $key = 'dM6nDm';
-//        
-//        
-        //For Live
-//        $url = 'https://secure.payu.in/_payment';
-//        $SALT = '9TgxP8VF';
-//        $key = 'RCEb10';
 
         //===========================================
         ?>
